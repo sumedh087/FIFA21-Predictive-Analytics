@@ -10,4 +10,8 @@ The objective of this analysis is to gain valuable insights into the player attr
 In the context of our FIFA 21 Dataset, sponsors and marketing Leads in  the Sports Analytics Field refer to companies or entities involved in promotional activities related to football, both in the real world and in the gaming industry.
 These companies often seek to leverage the popularity of football and football-related content for brand exposure, customer engagement, and strategic partnerships.
 
+•	Core Skills Gained: Predictive Modelling, Explanatory Data Analysis and Data Visualization
+•	Tech Utilized: Python - Pandas, NumPy, Sckit-Learn and Seaborn, Tableau 
+
+
 
